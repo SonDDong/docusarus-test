@@ -1,0 +1,24 @@
+{
+  "id": "readme1/README",
+  "title": "markdowns",
+  "description": "소개",
+  "source": "@site/docs/readme1/README.md",
+  "sourceDirName": "readme1",
+  "slug": "/readme1/",
+  "permalink": "/docs/readme1/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/readme1/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "안녕하세요",
+    "permalink": "/docs/greeting"
+  },
+  "next": {
+    "title": "TCN-PUBLIC-APIGW Deployment",
+    "permalink": "/docs/readme2/"
+  }
+}

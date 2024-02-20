@@ -1,0 +1,20 @@
+{
+  "id": "readme2/README",
+  "title": "TCN-PUBLIC-APIGW Deployment",
+  "description": "Introduction",
+  "source": "@site/docs/readme2/README.md",
+  "sourceDirName": "readme2",
+  "slug": "/readme2/",
+  "permalink": "/docs/readme2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/readme2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "markdowns",
+    "permalink": "/docs/readme1/"
+  }
+}

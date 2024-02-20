@@ -1,0 +1,30 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "markdowns",
+      "permalink": "/blog/README",
+      "unlisted": false
+    },
+    {
+      "title": "TEST Blog Post",
+      "permalink": "/blog/test-blog-post",
+      "unlisted": false
+    },
+    {
+      "title": "Welcome",
+      "permalink": "/blog/welcome",
+      "unlisted": false
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/blog/mdx-blog-post",
+      "unlisted": false
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/blog/long-blog-post",
+      "unlisted": false
+    }
+  ]
+}

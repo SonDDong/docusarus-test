@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/hellomdx",
+  "source": "@site/src/pages/hellomdx.mdx",
+  "title": "안녕",
+  "description": "Test",
+  "frontMatter": {},
+  "unlisted": false
+}

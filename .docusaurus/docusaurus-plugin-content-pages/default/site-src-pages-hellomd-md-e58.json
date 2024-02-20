@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/hellomd",
+  "source": "@site/src/pages/hellomd.md",
+  "title": "my hello markdown",
+  "description": "my hello description",
+  "frontMatter": {
+    "title": "my hello markdown",
+    "description": "my hello description",
+    "hide_table_of_contents": true
+  },
+  "unlisted": false
+}

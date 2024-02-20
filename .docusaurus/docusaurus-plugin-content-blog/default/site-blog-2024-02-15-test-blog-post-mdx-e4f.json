@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/test-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-02-15-test-blog-post.mdx",
+  "source": "@site/blog/2024-02-15-test-blog-post.mdx",
+  "title": "TEST Blog Post",
+  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "date": "2024-02-15T00:00:00.000Z",
+  "formattedDate": "February 15, 2024",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.175,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Dongjun Son",
+      "title": "Front End Engineer",
+      "url": "https://github.com/sonddong",
+      "key": "dongjun"
+    }
+  ],
+  "frontMatter": {
+    "slug": "test-blog-post",
+    "title": "TEST Blog Post",
+    "authors": [
+      "dongjun"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "markdowns",
+    "permalink": "/blog/README"
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}
